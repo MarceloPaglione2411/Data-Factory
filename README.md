@@ -10,3 +10,5 @@
 3- Criado Pipeline para para agendamento da copia BlobSource ---> BlobDestino com intervalo 120 Segundos.
 
 4- Criado uma Trigger para o disparo do job de copia em um horário determinado.
+
+![imagem do projeto](\storage\arquitetura.jpg)
