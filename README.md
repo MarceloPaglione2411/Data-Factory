@@ -11,4 +11,4 @@
 
 4- Criado uma Trigger para o disparo do job de copia em um horário determinado.
 
-![imagem do projeto](arquitetura.jpg)
+![imagem do projeto](/storage/arquitetura.jpg)
